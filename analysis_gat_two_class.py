@@ -47,8 +47,8 @@ print("Using device:", device)
 # ============================================================
 # Paths (EDIT THESE ONLY)
 # ============================================================
-DATA_PATH  = "/content/drive/MyDrive/PATH/full_training_data.pt"
-MODEL_PATH = "/content/drive/MyDrive/PATH/gnn_model.pt"
+DATA_PATH  = "/content/drive/MyDrive/PATH/GAT_Two_Class_data.pt"
+MODEL_PATH = "/content/drive/MyDrive/PATH/GAT_Two_Class_model.pt"
 
 BASE_OUTPUT_DIR = "/content/drive/MyDrive/PATH/"
 os.makedirs(BASE_OUTPUT_DIR, exist_ok=True)
