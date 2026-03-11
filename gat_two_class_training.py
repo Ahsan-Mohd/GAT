@@ -30,7 +30,7 @@ import seaborn as sns
 import os
 
 # Load the data_frames list from the file
-loaded_data_frames = torch.load(os.path.join(output_dir, 'full_training_data.pt'), weights_only=False)
+loaded_data_frames = torch.load(os.path.join(output_dir, 'GAT_Two_Class_data.pt'), weights_only=False)
 
 # Verify the loaded data
 print(loaded_data_frames[0])
