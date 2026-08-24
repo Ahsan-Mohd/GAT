@@ -5,7 +5,7 @@ This repository contains the code used to train and analyze a Graph Attention Ne
 
 The methodological details and biological interpretation of the model are described in the associated publication.
 
-Paper DOI:https://doi.org/10.1101/2025.06.17.659969
+Paper DOI:https://doi.org/10.1021/jacs.6c05500
 
 Due to their size, the dataset and trained model are hosted externally.
 Dataset DOI:https://doi.org/10.6084/m9.figshare.31645048
@@ -157,7 +157,7 @@ Citation
 
 If you use this code or dataset please cite
 
-PAPER/DOI :  https://doi.org/10.1101/2025.06.17.659969
+PAPER/DOI :  https://doi.org/10.1021/jacs.6c05500
 
 License
 
